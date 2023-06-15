@@ -11,7 +11,7 @@ Tech I am using and learning:
 ![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
 
 
-
+now I am studying in a cool and comfortable institution IT-Labs <a href=https://www.instagram.com/itlabs.uz/#>DSCUIT</a> , I want to express special gratitude to my unprepossessing teacher Mr Alisher <a href=https://www.instagram.com/alisheyx_life/#>DSCUIT</a>
 
 <details>
   <summary>More ⚡️</summary>
