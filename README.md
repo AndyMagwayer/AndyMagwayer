@@ -41,6 +41,6 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 
 <div align="center">
 
-![snake gif](https://github.com/cocomo29/cocomo29/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
