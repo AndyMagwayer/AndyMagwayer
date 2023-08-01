@@ -33,7 +33,7 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 <details>
 <summary><b>-_-</b></summary>
 
-![rickroll](https://www.icegif.com/wp-content/uploads/rickroll-icegif-4.gif)
+![Patrick Bateman](https://github.com/AndyMagwayer/AndyMagwayer/blob/main/sigma.gif)
 
 </details>
 </details>
