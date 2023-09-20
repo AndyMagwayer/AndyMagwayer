@@ -16,6 +16,8 @@ Tech I am using and learning:
 
 now I am studying in a cool and comfortable institution IT-Labs <a href=https://www.instagram.com/itlabs.uz/#>DSCUIT</a> , I want to express special gratitude to my unprepossessing teacher Mr Alisher <a href=https://www.instagram.com/alisheyx_life/#>insta</a>
 
+20.09.2023
+
 <details>
   <summary>More ⚡️</summary>
 <div align="center">
