@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AndyMagwayer/AndyMagwayer Social Preview">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#dc4c3e"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <!-- Ambient Glows -->
+  <circle cx="1060" cy="120" r="240" fill="#dc4c3e" fill-opacity="0.12"/>
+  <circle cx="180" cy="540" r="220" fill="#38bdf8" fill-opacity="0.08"/>
+
+  <!-- Outer Frame -->
+  <rect x="36" y="36" width="1128" height="558" rx="24" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <rect x="36" y="36" width="1128" height="8" rx="4" fill="url(#accentGrad)"/>
+
+  <!-- Top Header Strip -->
+  <g transform="translate(84, 92)">
+    <rect x="0" y="0" width="48" height="48" rx="12" fill="#dc4c3e"/>
+    <text x="24" y="33" text-anchor="middle" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="26" font-weight="800">D</text>
+    <text x="66" y="22" fill="#f8fafc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="18" font-weight="700">DAVID AI AUTONOMOUS ENGINEER</text>
+    <text x="66" y="43" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">24/7 Verified GitHub Portfolio · @AndyMagwayer</text>
+
+    <!-- Version Tag Pill -->
+    <rect x="860" y="6" width="172" height="36" rx="18" fill="#161f33" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="884" cy="24" r="5" fill="#10b981"/>
+    <text x="900" y="29" fill="#e2e8f0" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" font-weight="700">Release 34d Streak</text>
+  </g>
+
+  <!-- Main Repository Title -->
+  <g transform="translate(84, 235)">
+    <text x="0" y="0" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="28" font-weight="500">AndyMagwayer /</text>
+    <text x="0" y="68" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="60" font-weight="800" letter-spacing="-1">AndyMagwayer</text>
+  </g>
+
+  <!-- Repository Description -->
+  <g transform="translate(84, 355)">
+    <text x="0" y="0" fill="#cbd5e1" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="24" font-weight="400">Senior Software &amp; Autonomous Systems Engineer</text>
+    
+  </g>
+
+  <!-- Bottom Live Telemetry Badges Bar -->
+  <g transform="translate(84, 475)">
+    <!-- Badge 1: Streak -->
+    <rect x="0" y="0" width="245" height="54" rx="14" fill="#161f33" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="28" cy="27" r="7" fill="#f59e0b"/>
+    <text x="48" y="24" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="12" font-weight="600">GITHUB STREAK</text>
+    <text x="48" y="42" fill="#f8fafc" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16" font-weight="700">34 Days Active</text>
+
+    <!-- Badge 2: Uptime -->
+    <rect x="265" y="0" width="245" height="54" rx="14" fill="#161f33" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="293" cy="27" r="7" fill="#10b981"/>
+    <text x="313" y="24" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="12" font-weight="600">SERVICE UPTIME</text>
+    <text x="313" y="42" fill="#34d399" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16" font-weight="700">100% Online</text>
+
+    <!-- Badge 3: Contributions -->
+    <rect x="530" y="0" width="265" height="54" rx="14" fill="#161f33" stroke="#1e293b" stroke-width="1.5"/>
+    <circle cx="558" cy="27" r="7" fill="#38bdf8"/>
+    <text x="578" y="24" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="12" font-weight="600">YEARLY COMMITS</text>
+    <text x="578" y="42" fill="#f8fafc" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16" font-weight="700">1972+ Verified</text>
+
+    <!-- Right Author Tag -->
+    <rect x="815" y="0" width="217" height="54" rx="14" fill="#161f33" stroke="#1e293b" stroke-width="1.5"/>
+    <text x="923" y="24" text-anchor="middle" fill="#94a3b8" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="11" font-weight="600">MAINTAINED BY</text>
+    <text x="923" y="42" text-anchor="middle" fill="#ffffff" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="15" font-weight="700">@AndyMagwayer</text>
+  </g>
+</svg>
