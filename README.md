@@ -1,17 +1,17 @@
 <!-- DAVID-PROFILE-BANNER -->
 <div align="center">
   <a href="https://github.com/AndyMagwayer">
-    <img src="./assets/og-banner.svg" alt="AndyMagwayer Engineering Banner" width="100%" />
+    <img src="./assets/profile-header.png" alt="Abdulaziz Qosimov — Software Engineer | Frontend Developer" width="100%" />
   </a>
 </div>
 
 <div align="center">
 
-[![David Maintenance](https://img.shields.io/static/v1?label=David+AI&message=Verified+24%2F7&color=238636&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/AndyMagwayer) [![GitHub Streak](https://img.shields.io/static/v1?label=GitHub+Streak&message=34%20days&color=e67e22&style=for-the-badge&logo=fire&logoColor=white)](https://github.com/AndyMagwayer) [![Today Commits](https://img.shields.io/static/v1?label=Today+Commits&message=18%20commits&color=2ea043&style=for-the-badge&logo=git&logoColor=white)](https://github.com/AndyMagwayer) [![A320 & Portfolio Uptime](https://img.shields.io/static/v1?label=A320+%26+Portfolio+Uptime&message=99.9%25+Online&color=0ea5e9&style=for-the-badge&logo=statuspage&logoColor=white)](https://a320-airplane-maga.netlify.app/)
+[![David Maintenance](https://img.shields.io/static/v1?label=David+AI&message=Verified+24%2F7&color=238636&style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/AndyMagwayer) [![GitHub Streak](https://img.shields.io/static/v1?label=GitHub+Streak&message=34%20days&color=e67e22&style=for-the-badge&logo=fire&logoColor=white)](https://github.com/AndyMagwayer) [![Today Commits](https://img.shields.io/static/v1?label=Today+Commits&message=38%20commits&color=2ea043&style=for-the-badge&logo=git&logoColor=white)](https://github.com/AndyMagwayer) [![A320 & Portfolio Uptime](https://img.shields.io/static/v1?label=A320+%26+Portfolio+Uptime&message=99.9%25+Online&color=0ea5e9&style=for-the-badge&logo=statuspage&logoColor=white)](https://a320-airplane-maga.netlify.app/)
 
 </div>
 
-## 👨‍💻 @AndyMagwayer — Senior Software & Autonomous Systems Engineer
+## 👨‍💻 Abdulaziz Qosimov (@AndyMagwayer) — Senior Software & Autonomous Systems Engineer
 
 Разрабатываю авиационные симуляторы (Airbus A320), автономных AI-агентов (David AI, Anisa HQ) и высоконагруженные веб-платформы.
 
@@ -22,6 +22,29 @@
 ### 🛠️ Технологический стек и инструменты
 
 ![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&style=for-the-badge&logo=typescript&logoColor=white) ![React 19](https://img.shields.io/static/v1?label=&message=React+19&color=20232A&style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/static/v1?label=&message=Express&color=1e293b&style=for-the-badge&logo=express&logoColor=white) ![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind+CSS&color=06B6D4&style=for-the-badge&logo=tailwindcss&logoColor=white) ![Google Gemini AI](https://img.shields.io/static/v1?label=&message=Google+Gemini+AI&color=8E75B2&style=for-the-badge&logo=googlegemini&logoColor=white) ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=DD2C00&style=for-the-badge&logo=firebase&logoColor=white) ![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub+Actions&color=2088FF&style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&style=for-the-badge&logo=docker&logoColor=white) ![Telegram Bot API](https://img.shields.io/static/v1?label=&message=Telegram+Bot+API&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white)
+
+### 🖼️ Витрина флагманских продуктов и интерфейсов (Featured Showcases)
+
+#### 1. 📺 [Cartoon Network Archives](https://github.com/AndyMagwayer/Cartoon-Network-Archives) — Цифровой медиа-архив и стриминг классики CN
+<div align="center">
+  <a href="https://github.com/AndyMagwayer/Cartoon-Network-Archives">
+    <img src="./assets/cn-archives.png" alt="Cartoon Network Archives Interface" width="100%" />
+  </a>
+</div>
+
+#### 2. 🏢 [Anisa-HQ (AI Workforce Control Room)](https://github.com/AndyMagwayer/Anisa-HQ) — Виртуальная штаб-квартира автономных AI-сотрудников
+<div align="center">
+  <a href="https://github.com/AndyMagwayer/Anisa-HQ">
+    <img src="./assets/anisa-hq.png" alt="Anisa-HQ Control Room Interface" width="100%" />
+  </a>
+</div>
+
+#### 3. ⚡ [David AI Agent (God View Orchestrator)](https://github.com/AndyMagwayer/David-Ai-agent-) — Центр оркестрации репозиториев и нейронных агентов
+<div align="center">
+  <a href="https://github.com/AndyMagwayer/David-Ai-agent-">
+    <img src="./assets/david-ai.png" alt="David AI Agent God View" width="100%" />
+  </a>
+</div>
 
 ### 🚀 Ключевые инженерные проекты и репозитории
 
@@ -39,12 +62,12 @@
 | Метрика | Значение | Статус верификации |
 | :--- | :--- | :--- |
 | 🔥 **Текущий стрик контрибуций** | **34 дней подряд** | `VERIFIED VIA GITHUB GRAPHQL` |
-| 📈 **Контрибуций за год** | **1972+ коммитов и событий** | `ACTIVE PORTFOLIO` |
-| ⚡ **Коммитов за сегодня** | **18** | `DAILY CHECKPOINT PASSED` |
+| 📈 **Контрибуций за год** | **1992+ коммитов и событий** | `ACTIVE PORTFOLIO` |
+| ⚡ **Коммитов за сегодня** | **38** | `DAILY CHECKPOINT PASSED` |
 | 🛡️ **Аптайм сервисов (Watchdog)** | **99.9% Online** | `REALTIME TELEMETRY` |
-| 🕒 **Последняя синхронизация** | `11/09/2026, 18:37:28 (Asia/Tashkent)` | `DAVID AI DAEMON` |
+| 🕒 **Последняя синхронизация** | `11/09/2026, 18:54:26 (Asia/Tashkent)` | `DAVID AI DAEMON` |
 
 ---
 <div align="center">
-  <sub>⚡ Автоматически собрано и поддерживается <b>David Autonomous Software Engineer</b> для <a href="https://github.com/AndyMagwayer">@AndyMagwayer</a></sub>
+  <sub>⚡ Автоматически собрано и поддерживается <b>David Autonomous Software Engineer</b> для <a href="https://github.com/AndyMagwayer">Abdulaziz Qosimov (@AndyMagwayer)</a></sub>
 </div>
