@@ -1,48 +1,50 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=This+is+Magamed's+GitHub)](https://git.io/typing-svg)
-<img src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" >
-
-# 🚀 About Me
-https://portfolio-magamed.netlify.app/
-<img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hey there! Hi everyone, I'm Abdulaziz. I have a passion for learning programming now, learning front end development, really want you to get thanks to my projects <a href="https://www.uit.edu/">UIt</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code.Now i am going to apply for best team <a href="https://www.mit.edu/">MIT</a> and an active member of the <a href="http://itlabs.uz/">It-Labs</a> chapter.
-
-
-
-Tech I am using and learning:
-
-![My Skills](https://skillicons.dev/icons?i=linux,python,flask,js,fastapi,bash,selenium,mysql,html,css,git,tailwind,cpp,github,qt,bootstrap,heroku,figma,firebase,replit,mongo,flutter,docker,react,vscode,django,neovim&theme=dark&perline=9)
-
-
-My main projects wich i am coninuning to develop https://cartoonnetwork-ak-702.ai.studio/ and https://batman-archives-36550061399.asia-southeast1.run.app/
-
-<details>
-  <summary>More ⚡️</summary>
+<!-- DAVID-PROFILE-BANNER -->
 <div align="center">
-<!-- <p align="center"> 📊 My Github Stats</p> -->
-<p align="center"> 
-</br></br>
-<p><b>Profile Views</b></p>
- <img src="https://profile-counter.glitch.me/%7Bcocomo29%7D/count.svg"> </br></br>
-<p><b>Github Stats</b></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cocomo29&theme=midnight-purple"> </br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cocomo29&theme=midnight-purple"> </br></br>
-</p>
-
-<p><b>Holopin Badges</b></p>
-
-[![An image of @cocomo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cocomo)](https://holopin.io/@cocomo)
-
-<details>
-<summary><b>-_-</b></summary>
-
-![Patrick Bateman](https://github.com/AndyMagwayer/AndyMagwayer/blob/main/sigma.gif)
-
-</details>
-</details>
+  <a href="https://github.com/AndyMagwayer">
+    <img src="https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/og/card.svg?repo=AndyMagwayer%2FAndyMagwayer&theme=midnight&tagline=Senior%20Software%20%26%20Autonomous%20Systems%20Engineer&tag=33d%20Streak" alt="AndyMagwayer Engineering Banner" width="100%" />
+  </a>
 </div>
 
 <div align="center">
 
-![snake gif](https://github.com/AndyMagwayer/AndyMagwayer/blob/main/github-contribution-grid-snake2.svg)
+[![David Maintenance](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/david-status.svg)](https://github.com/AndyMagwayer) [![GitHub Streak](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/streak.svg)](https://github.com/AndyMagwayer) [![Today Commits](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/commits-today.svg)](https://github.com/AndyMagwayer) [![A320 & Portfolio Uptime](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/uptime.svg)](https://a320-airplane-maga.netlify.app/)
 
+</div>
+
+## 👨‍💻 @AndyMagwayer — Senior Software & Autonomous Systems Engineer
+
+Разрабатываю авиационные симуляторы (Airbus A320), автономных AI-агентов (David AI, Anisa HQ) и высоконагруженные веб-платформы.
+
+- 🌍 **Локация:** Ташкент, Узбекистан (UTC+5)
+- 🤖 **Автономная оркестрация:** все репозитории находятся под круглосуточным контролем **David AI Autonomous Engineer**
+- ✈️ **Флагманский стенд:** [Airbus A320 Flight Systems Simulator](https://a320-airplane-maga.netlify.app/)
+
+### 🛠️ Технологический стек и инструменты
+
+![TypeScript](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=TypeScript&color=%231e293b) ![React 19](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=React%2019&color=%231e293b) ![Node.js](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Node.js&color=%231e293b) ![Express](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Express&color=%231e293b) ![Tailwind CSS](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Tailwind%20CSS&color=%231e293b) ![Google Gemini AI](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Google%20Gemini%20AI&color=%231e293b) ![Firebase](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Firebase&color=%231e293b) ![GitHub Actions](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=GitHub%20Actions&color=%231e293b) ![Docker](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Docker&color=%231e293b) ![Telegram Bot API](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=Stack&value=Telegram%20Bot%20API&color=%231e293b)
+
+### 🚀 Ключевые инженерные проекты и репозитории
+
+| Проект | Архитектура и назначение | Статус David AI | Репозиторий |
+| :--- | :--- | :---: | :---: |
+| **[CN](https://github.com/AndyMagwayer/CN)** | Cartoon Network digital properties & assets | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=CN&color=%23dc4c3e)](https://github.com/AndyMagwayer/CN) |
+| **[A320-airplane](https://github.com/AndyMagwayer/A320-airplane)** | Interactive Airbus A320 flight systems and avionics simulation | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=A320-airplane&color=%23dc4c3e)](https://github.com/AndyMagwayer/A320-airplane) |
+| **[Cartoon-Network-Archives](https://github.com/AndyMagwayer/Cartoon-Network-Archives)** | Historical media preservation and broadcast archive | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=Cartoon-Network-Archives&color=%23dc4c3e)](https://github.com/AndyMagwayer/Cartoon-Network-Archives) |
+| **[Anisa-HQ](https://github.com/AndyMagwayer/Anisa-HQ)** | AI Operations Headquarters — виртуальная штаб-квартира автономных AI-агентов | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=Anisa-HQ&color=%23dc4c3e)](https://github.com/AndyMagwayer/Anisa-HQ) |
+| **[BAT-APP](https://github.com/AndyMagwayer/BAT-APP)** | Batch processing & automation tools application | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=BAT-APP&color=%23dc4c3e)](https://github.com/AndyMagwayer/BAT-APP) |
+| **[David-Ai-agent-](https://github.com/AndyMagwayer/David-Ai-agent-)** | David autonomous software engineer agent core & orchestrator | `🟢 Active 24/7` | [![Open](https://ais-dev-73on63rbmwkdk742jbd5s3-31557627001.asia-southeast1.run.app/api/badges/custom.svg?label=GitHub&value=David-Ai-agent-&color=%23dc4c3e)](https://github.com/AndyMagwayer/David-Ai-agent-) |
+
+### 📊 Живая телеметрия инженера (Live Telemetry)
+
+| Метрика | Значение | Статус верификации |
+| :--- | :--- | :--- |
+| 🔥 **Текущий стрик контрибуций** | **33 дней подряд** | `VERIFIED VIA GITHUB GRAPHQL` |
+| 📈 **Контрибуций за год** | **1954+ коммитов и событий** | `ACTIVE PORTFOLIO` |
+| ⚡ **Коммитов за сегодня** | **2** | `DAILY CHECKPOINT PASSED` |
+| 🛡️ **Аптайм сервисов (Watchdog)** | **99.9% Online** | `REALTIME TELEMETRY` |
+| 🕒 **Последняя синхронизация** | `11/09/2026, 09:05:28 (Asia/Tashkent)` | `DAVID AI DAEMON` |
+
+---
+<div align="center">
+  <sub>⚡ Автоматически собрано и поддерживается <b>David Autonomous Software Engineer</b> для <a href="https://github.com/AndyMagwayer">@AndyMagwayer</a></sub>
 </div>
